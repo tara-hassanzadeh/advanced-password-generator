@@ -53,11 +53,3 @@ You can run the notebook directly in your browser using Google Colab:
 https://colab.research.google.com/github/tara-hassanzadeh/advanced-password-generator/blob/main/advanced_password_generator.ipynb
 
 > 📌 **Note:** GitHub may not properly show code in the preview. Please use Colab link above to access both code and output.
-
----
-
-## 📥 Alternatively: Run Locally
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/tara-hassanzadeh/advanced-password-generator.git
